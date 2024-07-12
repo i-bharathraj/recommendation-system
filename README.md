@@ -18,7 +18,7 @@ Please check this list of supported graphics cards to make sure Ollama supports 
 - Download and install the Ollama from the official website. 
 - Download the Meta Llama3 model, you can use the following command to do that:
 
-```ollama pull llama3```
+```sh ollama pull llama3```
 
 **2. Running Ollama
 **
