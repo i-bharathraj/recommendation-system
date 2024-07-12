@@ -11,10 +11,8 @@ Trust me! This implementation has been tested and worked on WIndows 11.
 
 Please check this list of supported graphics cards to make sure Ollama supports your GPU. A compute capability of five or more should be available on your GPU. An 8GB VRAM GPU is advised for best results with the 7B large language model.
 
-**Installation Instructions 
-**
-**1. Ollama Installation
-**
+**Installation Instructions**
+**1. Ollama Installation**
 - Download and install the Ollama from the official website. 
 - Download the Meta Llama3 model, you can use the following command to do that:
 
@@ -22,8 +20,7 @@ Please check this list of supported graphics cards to make sure Ollama supports 
 ollama pull llama3
 ```
 
-**2. Running Ollama
-**
+**2. Running Ollama**
 - Once you download the package, start the Ollama service and then use the Llama 3 model in your own python program. 
 
 ```sh
@@ -32,8 +29,7 @@ ollama serve
 
 - In case, if you wanna use a different Large Language Model like Llama2 or something else, you still can pull the similar one and then modify the code accordingly. 
 
-**3. Python - Package Installation
-**
+**3. Python - Package Installation**
 - Before running this code, make sure that the python packages have been installed: 
 
 ```sh
