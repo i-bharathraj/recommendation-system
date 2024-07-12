@@ -26,7 +26,9 @@ ollama pull llama3
 **
 - Once you download the package, start the Ollama service and then use the Llama 3 model in your own python program. 
 
-```ollama serve```
+```sh
+ollama serve
+```
 
 - In case, if you wanna use a different Large Language Model like Llama2 or something else, you still can pull the similar one and then modify the code accordingly. 
 
