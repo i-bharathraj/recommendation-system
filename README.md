@@ -14,7 +14,9 @@ Please check this list of supported graphics cards to make sure Ollama supports 
 Use this link if needed: https://github.com/ollama/ollama/blob/main/docs/gpu.md
 
 **Installation Instructions**
+
 **1. Ollama Installation**
+
 - Download and install the Ollama from the official website. 
 - Download the Meta Llama3 model, you can use the following command to do that:
 
