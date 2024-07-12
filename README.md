@@ -20,14 +20,14 @@ Use this link if needed: https://github.com/ollama/ollama/blob/main/docs/gpu.md
 - Download and install the Ollama from the official website. 
 - Download the Meta Llama3 model, you can use the following command to do that:
 
-```sh 
+```ini 
 ollama pull llama3
 ```
 
 **2. Running Ollama**
 - Once you download the package, start the Ollama service and then use the Llama 3 model in your own python program. 
 
-```sh
+```ini
 ollama serve
 ```
 
@@ -36,14 +36,14 @@ ollama serve
 **3. Python - Package Installation**
 - Before running this code, make sure that the python packages have been installed: 
 
-```sh
+```ini
 pip install ollama
 pip install speechrecognition gtts pyaudio pygame
 ```
 
 - For Python 3.12 or any other newer versions, install the 'setuptools' package as well. 
 
-```sh
+```ini
 pip install setuptools
 ```
 
