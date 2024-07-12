@@ -1,19 +1,19 @@
 # Voice Assistant - MyJarvis
 My kind of Voice Assistant leveraging Meta's LLaMA3 large language model (LLM)
 
-**Overview**
+**##Overview**
 
 This repository includes a complicated Python program that uses the Ollama Python Library and the Meta Llama 3 model to respond to user queries by turning text responses into audio. 
 
 Trust me! This implementation has been tested and worked on WIndows 11. 
 
-**GPU Compatibility**
+**##GPU Compatibility**
 
 Please check this list of supported graphics cards to make sure Ollama supports your GPU. A compute capability of five or more should be available on your GPU. An 8GB VRAM GPU is advised for best results with the 7B large language model. 
 
 Use this link if needed: https://github.com/ollama/ollama/blob/main/docs/gpu.md
 
-**Installation Instructions**
+**##Installation Instructions**
 
 **1. Ollama Installation**
 
