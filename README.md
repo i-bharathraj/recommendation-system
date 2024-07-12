@@ -18,7 +18,9 @@ Please check this list of supported graphics cards to make sure Ollama supports 
 - Download and install the Ollama from the official website. 
 - Download the Meta Llama3 model, you can use the following command to do that:
 
-```sh ollama pull llama3```
+```sh 
+ollama pull llama3
+```
 
 **2. Running Ollama
 **
@@ -32,12 +34,16 @@ Please check this list of supported graphics cards to make sure Ollama supports 
 **
 - Before running this code, make sure that the python packages have been installed: 
 
-```pip install ollama ```
-```pip install speechrecognition gtts pyaudio pygame ```
+```sh
+pip install ollama
+pip install speechrecognition gtts pyaudio pygame
+```
 
 - For Python 3.12 or any other newer versions, install the 'setuptools' package as well. 
 
-```pip install setuptools ```
+```sh
+pip install setuptools
+```
 
 - You also may need to create a Python Virtual environment before installing all these packages. 
 
